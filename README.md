@@ -1,1 +1,1 @@
-A feed-forward nueral net trained to identify handwritten digits in the MNIST dataset. Based on the code found in this online book: http://neuralnetworksanddeeplearning.com/chap1.html, and adapted for Python 3.X. 
+A feed-forward neural net trained to identify handwritten digits in the MNIST dataset. Based on the code found in this online book: http://neuralnetworksanddeeplearning.com/chap1.html, and adapted for Python 3.X. 
